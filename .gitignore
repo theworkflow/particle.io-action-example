@@ -1,0 +1,6 @@
+target
+lib
+apps/**/src/*.cpp
+*.code-workspace
+.vscode
+.env
